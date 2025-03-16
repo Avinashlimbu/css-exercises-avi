@@ -1,0 +1,16 @@
+/* styles.css */
+
+.stylea,
+.styleb {
+    font-size: 28px;
+    font-family: "Helvetics", "Times New Roman", sans-serif;
+}
+
+.stylea {
+    background-color: black;
+    color: white;
+}
+
+.styleb{
+    background-color: yellow;
+}
