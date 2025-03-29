@@ -2,16 +2,9 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   padding: 10px;
-}
-
-.left-links {
-  margin-right: auto;
-}
-.right-links {
-  margin-left: auto;
 }
 
 .logo {
